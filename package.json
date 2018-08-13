@@ -20,5 +20,9 @@
     "browserify": "^11.2.0",
     "npm": "^3.3.5",
     "uglifyify": "^3.0.1"
+  },
+  "dependencies": {
+    "browserfy": "^1.0.0",
+    "uglifyjs": "^2.4.11"
   }
 }
